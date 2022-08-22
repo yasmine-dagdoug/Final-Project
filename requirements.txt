@@ -10,7 +10,6 @@ blis==0.7.8
 brotlipy==0.7.0
 catalogue==1.0.0
 certifi==2021.10.8
-clyent==1.2.2
 comtypes==1.1.10
 conda==4.12.0
 conda-build==3.21.8
