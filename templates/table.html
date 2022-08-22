@@ -1,0 +1,18 @@
+<!doctype html>
+  <table border = 1>
+    {% for key, value in result.items() %}
+
+    <tr>
+       <th> {{ key }} </th>
+       <td> {{ value }} </td>
+    </tr>
+    
+    {% endfor %}
+    
+ </table>
+        <br>
+        <br>
+        <button><a href="/">Upload new resume</a></button>
+        <br>
+        <br>
+        <button><a href="/table">Resumes list</a></button>

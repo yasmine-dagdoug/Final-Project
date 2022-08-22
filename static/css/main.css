@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: Teal;
+   height: 100%;
+        width: 100%;
+        font-family: 'Poppins', sans-serif;
+        color:#222;
+      }
+
+
+.img{
+    width: 136px;
+    filter: invert(100%);
+}
+
+.Upload{
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
+.Upload:hover {
+    background-color: MediumVioletRed;
+}
