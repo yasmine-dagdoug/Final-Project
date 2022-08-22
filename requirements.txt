@@ -107,7 +107,6 @@ stanza==1.4.0
 statsmodels==0.13.2
 tabula==1.0.5
 tabulate==0.8.9
-TBB==0.2
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
