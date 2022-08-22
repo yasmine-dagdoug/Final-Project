@@ -1,5 +1,4 @@
 absl-py==1.2.0
-anaconda-navigator==2.1.4
 appdirs==1.4.4
 astunparse==1.6.3
 async-generator==1.10
