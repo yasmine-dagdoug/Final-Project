@@ -100,8 +100,6 @@ sgmllib3k==1.0.0
 sklearn==0.0
 smart-open==5.2.1
 spacy==2.3.5
-spacy-legacy==3.0.9
-spacy-loggers==1.0.3
 srsly==1.0.5
 stanza==1.4.0
 statsmodels==0.13.2
